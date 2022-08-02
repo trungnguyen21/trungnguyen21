@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @trungnguyen21
-- 👀 I’m interested in Blockchain technology and cryptocurrency development!
-- 🌱 I’m currently learning to create trading bots and hopefully be able to ripe some profits :D
+- 👀 I’m interested in Blockchain technology and Cryptocurrency development!
+- 🌱 I’m currently experimenting with Web developments and Algorithmic trading 🧪
 - 💞️ I’m looking to collaborate on Smart Contract, Web3.0 projects to gain further insight into this revolutionary technology
 - 📫 How to reach me: atrung380@gmail.com would receive my earliest response!
 
