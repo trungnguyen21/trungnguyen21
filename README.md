@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @trungnguyen21
-- 👀 I’m interested in Blockchain technology and Cryptocurrency development!
-- 🌱 I’m currently experimenting with Web developments and Algorithmic trading 🧪
-- 💞️ I’m looking to collaborate on Smart Contract, Web3.0 projects to gain further insight into this revolutionary technology
-- 📫 How to reach me: atrung380@gmail.com would receive my earliest response!
+Hi, I'm Trung (Tyler) A proud CS @ UBC and a keen badminton player! 
 
-<!---
-trungnguyen21/trungnguyen21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Here, you can find projects that I have been working on. I work mainly with Python, JavaScript and Java to create Web apps, automation, and some other random products that intrigued me :) 
+
+A couple of notable projects 👇
+[ChatDocument](https://github.com/trungnguyen21/ChatDocument) Chat with your own documents! Powered by Langchain, Redis, and Google Gemini
+[AutomatedYoutubeShorts](https://github.com/trungnguyen21/AutomatedYoutubeShorts) Automatically generate Youtube Shorts formatted video based on your script. Powered by Python!
+[Traffic Robot](https://github.com/trungnguyen21/Traffic-Robot) Arduino robot that aids you crossing busy roads
